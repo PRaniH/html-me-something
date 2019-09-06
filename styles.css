@@ -1,0 +1,62 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 10 auto;
+	background-color: rgb(241, 234, 234);
+	font-size: 100%;
+}
+
+header,
+main,
+footer {
+	background-color: rgb(199, 24, 24);
+	font-size: 2em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+    text-align: center;
+	font-style: Arial;
+	padding: 2em;
+}
+
+h1, h2, h3 {
+    font-style: Arial;
+
+}
+
+h1 {
+    font-size: 2.5em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+	color: red;
+	margin: 50px 50px 50px 50px;
+
+}
+
+
+
+p {
+	padding: 2em;
+}
+
+
+img {
+	width: 25%;
+    max-width: 50%;
+	padding: 2em;
+	float: right;	
+}
+
+div {
+	border: 3px solid black ;
+	padding: 50px;
+  }
+
